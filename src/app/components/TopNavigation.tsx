@@ -9,7 +9,7 @@ import {
   DropdownMenuSeparator,
   DropdownMenuTrigger,
 } from './ui/dropdown-menu';
-import logoImage from 'figma:asset/cd322dbdbd22d2857e84f2773e6f3c957844dfd9.png';
+import logoImage from 'asset/logo.png';
 
 interface TopNavigationProps {
   currentPage: string;
