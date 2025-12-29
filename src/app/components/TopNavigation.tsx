@@ -9,7 +9,9 @@ import {
   DropdownMenuSeparator,
   DropdownMenuTrigger,
 } from './ui/dropdown-menu';
-import logoImage from 'asset/logo.png';
+import logoImage from 'src/assets/logo.png'
+
+';
 
 interface TopNavigationProps {
   currentPage: string;
